@@ -1,0 +1,13 @@
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.exe
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.deps.json
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.runtimeconfig.json
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.runtimeconfig.dev.json
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.dll
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\bin\Debug\netcoreapp3.1\Laboratorio1.pdb
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.AssemblyInfoInputs.cache
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.AssemblyInfo.cs
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.dll
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.pdb
+C:\Users\valer\Desktop\Laboratorio1\Laboratorio1\obj\Debug\netcoreapp3.1\Laboratorio1.genruntimeconfig.cache
