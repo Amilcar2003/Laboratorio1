@@ -7,9 +7,10 @@ namespace Laboratorio1
         static void Main(string[] args)
         {
             User.users.Add(new User() { Username = "", Password = "", Role = "admin" });
-            User.users.Add(new User() { Username = "juan", Password = "juan", Role = "employee" });
-            Product.products.Add(new Product() { Name = "Manzana", Price = 60, Stock = 100 });
-            Product.products.Add(new Product() { Name = "Melocoton", Price = 50, Stock = 100 });
+            User.users.Add(new User() { Username = "amilcar", Password = "amilcar", Role = "employee" });
+            Product.products.Add(new Product() { Name = "Computadora", Price = 6000, Stock = 100 });
+            Product.products.Add(new Product() { Name = "PS4", Price = 4000, Stock = 100 });
+            Product.products.Add(new Product() { Name = "Videojuegos", Price = 500, Stock = 100 });
             new Login().menu();
         }
     }
